@@ -36,14 +36,20 @@ body{
 }
 */
 .background-1{
-  background-image: url('http://marchingbandnerds.com/port/background/3.jpg');
+  background-image: url('../img/header.jpg');
   background-size: cover;
+  background-color: rgba(0,0,0,.5);;
+  background-blend-mode: overlay;
 }
 
 .background-2{
-  background-image: url('http://marchingbandnerds.com/port/background/banner.jpg');
+  background-image: url('../img/header_2.jpg');
   background-size: cover;
+  background-color: rgba(0,0,0,.5);;
+  background-blend-mode: overlay;
+  background-attachment: absolute;
 }
+
 
 .highlighted {
     background-color: rgba(0,0,0,.5);
