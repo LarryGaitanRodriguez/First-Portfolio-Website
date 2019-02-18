@@ -1,0 +1,50 @@
+.oxygen-font{
+  font-family: 'Oxygen', sans-serif;
+}
+.openSans-font{
+  font-family: 'Open Sans', sans-serif;
+}
+/*
+.border-red{
+    border-style: solid;
+    border-color: red;
+}
+
+.border-blue{
+    border-style: solid;
+    border-color: blue;
+}
+*/
+.slate-back{
+  background-color:#778899
+}
+
+.title{
+  padding: 250px;
+  padding-bottom: 0;
+}
+
+.center{
+  display: block;
+  margin: 0 auto;
+}
+
+
+ /* 
+body{
+  margin:20px;
+}
+*/
+.background-1{
+  background-image: url('http://marchingbandnerds.com/port/background/3.jpg');
+  background-size: cover;
+}
+
+.background-2{
+  background-image: url('http://marchingbandnerds.com/port/background/banner.jpg');
+  background-size: cover;
+}
+
+.highlighted {
+    background-color: rgba(0,0,0,.5);
+}
