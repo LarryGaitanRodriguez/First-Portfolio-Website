@@ -6,7 +6,7 @@
 ## What is it?
 One of the more significant early projects of freeCodeCamp, I was tasked with building a portfolio website that will hold my current and future projects. 
 
-## What is it made of
+## What is it made of?
 The project was meant to put to previous knowledge of HTML, CSS and to put to work newer knowledge of bootstrap and its grid system.
 
 ## What did I learn?
